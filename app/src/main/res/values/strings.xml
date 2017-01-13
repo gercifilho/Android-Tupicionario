@@ -7,5 +7,53 @@
     <string name="plantas_categoria">Plantas</string>
     <string name="povos_nativos_categoria">Povos Nativos</string>
 
-
+    <string-array name="BichosArray">
+        <item>Acaé</item>
+        <item>Anu</item>
+        <item>Araponga</item>
+        <item>Arara</item>
+        <item>Bacurau</item>
+        <item>Bairari</item>
+        <item>Baitaca</item>
+        <item>Biguá</item>
+        <item>Caçaroba</item>
+        <item>Cachimbó</item>
+        <item>Carijó</item>
+    </string-array>
+    <string-array name="CulinariaArray">
+        <item>Abacate</item>
+        <item>Abacaxi</item>
+        <item>Abati</item>
+        <item>Abunã</item>
+        <item>Açai</item>
+        <item>Acajá</item>
+        <item>Aipim</item>
+        <item>Bauru</item>
+        <item>Cacau</item>
+        <item>Cará</item>
+    </string-array>
+    <string-array name="PlantasArray">
+        <item>Abajá</item>
+        <item>Abajeru</item>
+        <item>Abaracatinga</item>
+        <item>Abatiputá</item>
+        <item>Abiurana</item>
+        <item>Acapu</item>
+        <item>Amapá</item>
+        <item>Babaçu</item>
+        <item>Bacaba</item>
+        <item>Bacoparé</item>
+    </string-array>
+    <string-array name="PovosArray">
+        <item>Araueté</item>
+        <item>Bacajá</item>
+        <item>Bacuri</item>
+        <item>Bororo</item>
+        <item>Caiapó</item>
+        <item>Caingangue</item>
+        <item>Caiobá</item>
+        <item>Carajás</item>
+        <item>Crenaque</item>
+        <item>Deni</item>
+    </string-array>
 </resources>
