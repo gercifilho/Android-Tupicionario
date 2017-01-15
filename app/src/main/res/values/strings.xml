@@ -20,6 +20,20 @@
         <item>Cachimbó</item>
         <item>Carijó</item>
     </string-array>
+
+    <string-array name="BichosDesc">
+        <item>nome indígena das gralhas, espécie de ave Também conhecida como: acaém, japu Nome de afluente da margem</item>
+        <item>nome de um pássaro "Anu" e "anum" derivam do termo tupi a\'nu. Fontes e referências: Wikipédia</item>
+        <item>ARAPONGA Também chamada de "guiraponga", "uiraponga" e "iraponga". Vêm do termo tupi wi\'rá põga, "pássaro</item>
+        <item>Jandaia grande, ave grande. Fontes e referências: Portal São Francisco </item>
+        <item>Ave de hábitos noturnos Também conhecida como: acurau, acurana, guiraquereá, ibijaú, joão-corta-pau</item>
+        <item>espécie de ave Também conhecida como: arribaçã, jaueti, paiarari, pararu, arribação, cardigueira</item>
+        <item>Espécie de ave. Mesmo que Maritaca São encontradas normalmente aos pares e tem um grito muito alto</item>
+        <item>é uma ave Também conhecida como: corvo, pata d\' água, miguá, minguá, biuá, bivá, piguá, e imbiguá.</item>
+        <item>é o nome de um pássaro Nome científico: (Columba plumbea) Do Tupi-Guarani: (a)ca-çu - cabeça grande;</item>
+        <item>ave passeriforme furnarídea; tico-tico-biri e tico-tico-piri Nome científico: (Phleocryptes melanops)</item>
+    </string-array>
+
     <string-array name="CulinariaArray">
         <item>Abacate</item>
         <item>Abacaxi</item>
